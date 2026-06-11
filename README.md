@@ -16,3 +16,7 @@ Este repositório serve como ambiente de aprendizado e experimentação com o Cl
 
 - [Documentação do Claude Code](https://docs.anthropic.com/claude-code)
 - [GitHub do Claude Code](https://github.com/anthropics/claude-code)
+
+## Contribuindo
+
+Sugestões e melhorias são bem-vindas! Abra uma [issue](../../issues) ou envie um pull request.
